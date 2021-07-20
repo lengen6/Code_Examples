@@ -1,0 +1,9 @@
+Test Plan:
+
+Input: Test the input validation. Leave name and grade blank. Enter a negative value, a value greater than 100, and a non integer to see if the logic catches these errors. Make sure the confirmation message comes up with the correct index position. Put a break in to see if the correct information is being added to each array. Try to enter more than 5 entries and see if the full array message comes up
+
+Processing Check that the total and average calculations are correct by comparing them to hand calculations.
+Check that the clear function clears the display and empties global variables and the arrays.
+
+Output: Check that the display shows up correctly and that the string is being properly constructed in the loop. 
+
