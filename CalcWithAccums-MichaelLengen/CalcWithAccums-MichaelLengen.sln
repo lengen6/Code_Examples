@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcWithAccums-MichaelLengen", "CalcWithAccums-MichaelLengen.csproj", "{AD9DA7BF-4069-45A8-832F-8FD224671427}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD9DA7BF-4069-45A8-832F-8FD224671427}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD9DA7BF-4069-45A8-832F-8FD224671427}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD9DA7BF-4069-45A8-832F-8FD224671427}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD9DA7BF-4069-45A8-832F-8FD224671427}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {654FE051-A694-4888-9997-20800C86051D}
+	EndGlobalSection
+EndGlobal
