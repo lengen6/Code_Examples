@@ -1,0 +1,20 @@
+C:\Users\Michael\source\repos\ShippingCalculator-MichaelLengen\bin\Debug\ShippingCalculator-MichaelLengen.exe.config
+C:\Users\Michael\source\repos\ShippingCalculator-MichaelLengen\bin\Debug\ShippingCalculator-MichaelLengen.exe
+C:\Users\Michael\source\repos\ShippingCalculator-MichaelLengen\bin\Debug\ShippingCalculator-MichaelLengen.pdb
+C:\Users\Michael\source\repos\ShippingCalculator-MichaelLengen\obj\Debug\ShippingCalculator-MichaelLengen.csprojAssemblyReference.cache
+C:\Users\Michael\source\repos\ShippingCalculator-MichaelLengen\obj\Debug\ShippingCalculator_MichaelLengen.Form1.resources
+C:\Users\Michael\source\repos\ShippingCalculator-MichaelLengen\obj\Debug\ShippingCalculator_MichaelLengen.Properties.Resources.resources
+C:\Users\Michael\source\repos\ShippingCalculator-MichaelLengen\obj\Debug\ShippingCalculator-MichaelLengen.csproj.GenerateResource.cache
+C:\Users\Michael\source\repos\ShippingCalculator-MichaelLengen\obj\Debug\ShippingCalculator-MichaelLengen.csproj.CoreCompileInputs.cache
+C:\Users\Michael\source\repos\ShippingCalculator-MichaelLengen\obj\Debug\ShippingCalculator-MichaelLengen.exe
+C:\Users\Michael\source\repos\ShippingCalculator-MichaelLengen\obj\Debug\ShippingCalculator-MichaelLengen.pdb
+D:\Docs\College Folders\Spring 2021\CIS 160\ShippingCalculator-MichaelLengen\bin\Debug\ShippingCalculator-MichaelLengen.exe.config
+D:\Docs\College Folders\Spring 2021\CIS 160\ShippingCalculator-MichaelLengen\bin\Debug\ShippingCalculator-MichaelLengen.exe
+D:\Docs\College Folders\Spring 2021\CIS 160\ShippingCalculator-MichaelLengen\bin\Debug\ShippingCalculator-MichaelLengen.pdb
+D:\Docs\College Folders\Spring 2021\CIS 160\ShippingCalculator-MichaelLengen\obj\Debug\ShippingCalculator-MichaelLengen.csprojAssemblyReference.cache
+D:\Docs\College Folders\Spring 2021\CIS 160\ShippingCalculator-MichaelLengen\obj\Debug\ShippingCalculator_MichaelLengen.Form1.resources
+D:\Docs\College Folders\Spring 2021\CIS 160\ShippingCalculator-MichaelLengen\obj\Debug\ShippingCalculator_MichaelLengen.Properties.Resources.resources
+D:\Docs\College Folders\Spring 2021\CIS 160\ShippingCalculator-MichaelLengen\obj\Debug\ShippingCalculator-MichaelLengen.csproj.GenerateResource.cache
+D:\Docs\College Folders\Spring 2021\CIS 160\ShippingCalculator-MichaelLengen\obj\Debug\ShippingCalculator-MichaelLengen.csproj.CoreCompileInputs.cache
+D:\Docs\College Folders\Spring 2021\CIS 160\ShippingCalculator-MichaelLengen\obj\Debug\ShippingCalculator-MichaelLengen.exe
+D:\Docs\College Folders\Spring 2021\CIS 160\ShippingCalculator-MichaelLengen\obj\Debug\ShippingCalculator-MichaelLengen.pdb

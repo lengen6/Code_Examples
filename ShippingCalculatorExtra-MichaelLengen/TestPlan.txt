@@ -1,0 +1,7 @@
+Test Plan:
+
+Validation: Enter blanks for package weight to see if logic is working. Enter a non numeric value for weight. Enter a negative number for weight. Select the different radio buttons to see that they are working. Don't select any radio button to check that validation and the error message are working.
+
+Processing: Check calculations against hand calculations to make sure the results are accurate. Enter a total equal to 100 to see if cap logic is working. Enter a number greater than 100 to make sure cap logic is working. 
+
+Clear function: Put a break in before the calculations run to see if the old values are being cleared.

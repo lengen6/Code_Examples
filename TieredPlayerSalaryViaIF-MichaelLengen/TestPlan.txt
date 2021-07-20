@@ -1,0 +1,11 @@
+Test Plan
+
+Input Validation: Try entering a blank input for name. Try entering negative values, non whole numbers, the numbers 1, 300, and numbers greater than 300. Make sure if validation fails none of the rest of the code executes.
+
+Current Player Calculations: Enter different numbers to make sure the calculations are working and compare against hand calculated results. Make sure to test edge cases with the tier structure to ensure that the tier boundries are being accurately represented.
+
+Bonus Logic: Check different combinations of MVP and All star to make sure that the both, one, or none logic is working. Compare results with hand calculations.
+
+Leading player Logic: Enter increasing hit numbers to make sure that the leader board is being updated. Try out ties to make sure the original leader remains.
+
+Clear: Check to make sure that the clear button is removing the data displayed in all relevant fields. Try a lower number of hits than the previous leader to make sure that the old leader variables have been cleared from memory not just removed from the display.
